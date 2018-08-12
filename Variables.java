@@ -16,8 +16,8 @@ public class Variables {
 
         System.out.println(yas/yas2);
 
-        String ad = "Pervin";
-        String soyad = "Beşe";
+        String ad = "Ege";
+        String soyad = "Dev";
 
         String ad2 = ad + " " + soyad;
 
